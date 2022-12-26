@@ -11,4 +11,4 @@
  > 7 ⇒ 1000 ⇒ 0001000  
  > 8 ⇒ 1001 ⇒ 0001001  
  > ...  
- > About [Exponential-Golomb coding](https://en.wikipedia.org/wiki/Exponential-Golomb_coding)
+ > _About [Exponential-Golomb coding](https://en.wikipedia.org/wiki/Exponential-Golomb_coding)
