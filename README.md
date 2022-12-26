@@ -20,7 +20,6 @@
  > ...  
   
 ## Details  
- > ![merge_from_ofoct (1)](https://user-images.githubusercontent.com/49416429/209583047-782f7408-932d-41f2-bb97-4a384149635c.jpg)
-
+ > ![merge_from_ofoct](https://user-images.githubusercontent.com/49416429/209583066-c7c6ca4e-02b8-44c1-9a14-389a4bf01f8e.jpg)
 
 
