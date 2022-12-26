@@ -1,7 +1,9 @@
 # Digital signal processing, C++ Example for Undergraduate.  
 
 ## [Cramer's Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)  
- > ![스크린샷_20221227_055307](https://user-images.githubusercontent.com/49416429/209582774-dbeb816d-fd3e-4438-920d-c079a263ed66.png)  
+ > ![스크린샷_20221227_055423](https://user-images.githubusercontent.com/49416429/209582824-d73f6352-161f-45a4-a706-4d415dd90fc0.png)
+ > ![스크린샷_20221227_055431](https://user-images.githubusercontent.com/49416429/209582831-3abecea8-f7cf-49f0-852d-7be15b8b9e6a.png)
+
 
 ## [Exponential-Golomb coding](https://en.wikipedia.org/wiki/Exponential-Golomb_coding)  
  > 0 ⇒ 1 ⇒ 1  
