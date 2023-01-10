@@ -18,7 +18,10 @@
  > 7 ⇒ 1000 ⇒ 0001000  
  > 8 ⇒ 1001 ⇒ 0001001  
  > ...  
+### Details  
+
   
+## [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)  
 ### Details  
  > ![merge_from_ofoct](https://user-images.githubusercontent.com/49416429/209583066-c7c6ca4e-02b8-44c1-9a14-389a4bf01f8e.jpg)
 
