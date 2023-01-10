@@ -8,6 +8,7 @@
 
 
 ## [Exponential-Golomb coding](https://en.wikipedia.org/wiki/Exponential-Golomb_coding)  
+### Details  
  > 0 ⇒ 1 ⇒ 1  
  > 1 ⇒ 10 ⇒ 010  
  > 2 ⇒ 11 ⇒ 011  
@@ -18,7 +19,6 @@
  > 7 ⇒ 1000 ⇒ 0001000  
  > 8 ⇒ 1001 ⇒ 0001001  
  > ...  
-### Details  
 
   
 ## [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)  
