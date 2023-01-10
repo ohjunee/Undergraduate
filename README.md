@@ -8,7 +8,6 @@
 
 
 ## [Exponential-Golomb coding](https://en.wikipedia.org/wiki/Exponential-Golomb_coding)  
-### Details  
  > 0 ⇒ 1 ⇒ 1  
  > 1 ⇒ 10 ⇒ 010  
  > 2 ⇒ 11 ⇒ 011  
