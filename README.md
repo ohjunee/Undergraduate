@@ -1,4 +1,4 @@
-# C++/Matlab Example for Undergraduate  
+# C++/Matlab Practice for Undergraduate  
 
 ## [Cramer's Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule)  
  > #### In linear algebra, Cramer's rule is an explicit formula for the solution of a system of linear equations with as many equations as unknowns, valid whenever the system has a unique solution. It expresses the solution in terms of the determinants of the (square) coefficient matrix and of matrices obtained from it by replacing one column by the column vector of right-sides of the equations.  
